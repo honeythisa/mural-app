@@ -1,3 +1,7 @@
+# Mural informativo
+> prototype
+![mural](https://github.com/user-attachments/assets/b740a6f7-c7ce-4d1d-b7fa-b6635ed3ab76)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
